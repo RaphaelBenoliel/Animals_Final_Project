@@ -1,9 +1,3 @@
-/*
-Raphael Benoliel, 209946854
-Daniel Vaknin, 314753161
-Hodaya Einy, 206753444*/
-
-
 #include <iostream>
 using namespace std;
 
